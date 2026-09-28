@@ -1,0 +1,2 @@
+c7be7420c5042937f9a16152110d0a467ec4b84701374364891da8dd32ea90af  massive-ores-1.0.0-mc1.20.5.jar
+2a80e2f1859ce8f333de809e1373fba6e9ba4b96b1a19d74aafff0c78dfbfdb6  massive-ores-1.0.0-mc1.20.5.zip
